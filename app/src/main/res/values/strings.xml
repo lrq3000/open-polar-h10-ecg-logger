@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">open-polar-h10-ecg-logger</string>
+    <string name="app_display_name">Polar H10 ECG Logger</string>
+    <string name="tabs_status">Status</string>
+    <string name="tabs_metrics1">Metrics 1</string>
+    <string name="tabs_metrics2">Metrics 2</string>
+</resources>

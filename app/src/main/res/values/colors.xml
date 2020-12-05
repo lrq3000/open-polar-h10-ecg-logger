@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nighttime_purple">#53454F</color>
+    <color name="nighttime_purple_light">#5f4f5a</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light">#F0F2F3</color>
+    <color name="subtle">#C0C2C3</color>
+</resources>
